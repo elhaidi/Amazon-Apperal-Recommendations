@@ -1,1 +1,1 @@
-# Amazon-Apperal-Recommendations
+# Amazon-apparel-Recommendations
